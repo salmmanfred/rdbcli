@@ -23,9 +23,9 @@ checksum = "0ee1c47aaa256ecabcaea351eae4a9b01ef39ed810004e298d2511ed284b1525"
 
 [[package]]
 name = "openfile"
-version = "0.2.1"
+version = "1.0.1"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "4e3c38b1cf998f4fc01a1a9075b14e7478b112ffbda2cb50023b74e9783b4594"
+checksum = "4aa7d9d044ccc5ba059f84decc9081263ffaa084d56e3d0d0bb86bc1bba655e5"
 
 [[package]]
 name = "rdbcli"
@@ -54,9 +54,9 @@ checksum = "b5eb417147ba9860a96cfe72a0b93bf88fee1744b5636ec99ab20c1aa9376581"
 
 [[package]]
 name = "rustDatabook"
-version = "0.1.0"
+version = "1.1.3"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "92b3f39f98c4740d47d1a238d50213b4665be8bed25944b23c283b7bb5ac90e0"
+checksum = "8f0293d9955b030a322f41b49dda017b25954837c92c8c8334e02e4039f66808"
 dependencies = [
  "openfile",
  "regex",

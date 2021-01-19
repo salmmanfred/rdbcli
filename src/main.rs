@@ -35,6 +35,12 @@ fn main() {
         rustDatabook::removeData(&send[1],&send[3]);
         //print!("{}",send[3]);
     }
+    if send[2] == "-cn"{
+    
+        //x = x.replace(">", "|");
+        rustDatabook::copyValueToNew(&send[1],&send[3],&send[4], x, &send[5]);
+        //print!("{}",send[3]);
+    }
    
 
 }   
